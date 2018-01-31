@@ -8,3 +8,5 @@ GuillermoCastilla;tecnico;g#Casti11a@uem.es
 MariaJoTerron;tecnico;mJ#T3rr0n@uem.es
 VictorPadron;tecnico;v#Padr0n@uem.es
 JuanAPinuela;admin;jA#Pinu31a@uem.es
+EloyAcedo;tecnico;eA#Acedo@uem.es
+JoseMartinez;medico;JM#Martinez@uem.es
